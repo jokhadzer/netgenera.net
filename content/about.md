@@ -1,242 +1,43 @@
 ---
-title: "About"
-date: 2021-12-18T11:10:36+08:00
+title: "About NetGenera"
+date: 2024-01-01
 draft: false
 language: en
-description: About Us
-featured_image: ../assets/images/featured/featured-img-placeholder.png
+description: "Learn about NetGenera — your trusted IT systems integrator specializing in network design, cloud infrastructure, and cybersecurity."
 ---
 
-# h1 Heading :blush:
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+## Who We Are
 
+NetGenera is an IT systems integrator and managed service provider built by engineers, for engineers. Founded with the belief that great technology should be invisible — simply enabling businesses to do what they do best — we specialize in designing, deploying, and managing the network and security infrastructure that modern organizations depend on.
 
-## Horizontal Rules
+## What Drives Us
 
-***
+Technology is evolving faster than ever. Cloud adoption, hybrid work, and an expanding threat landscape mean that businesses need a partner who can navigate complexity and deliver clarity. That's where we come in.
 
----
+We take a consultative, vendor-agnostic approach to every engagement. We don't push products — we architect solutions. Whether it's a greenfield network buildout, a cloud migration, or a security posture assessment, we start with your business objectives and work backward to the right technology.
 
-___
+## Our Expertise
 
+Our team holds certifications across leading platforms including Cisco, Juniper, Fortinet, Palo Alto Networks, AWS, and Microsoft Azure. We bring hands-on experience from enterprise environments spanning finance, healthcare, manufacturing, and technology sectors.
 
-## Typographic replacements
+**Core competencies include:**
 
-Enable typographer option to see result.
+- Enterprise network design & architecture (campus, data center, SD-WAN)
+- Cloud & hybrid infrastructure (AWS, Azure, GCP)
+- Cybersecurity (firewalls, SIEM, zero trust, incident response)
+- Infrastructure automation & monitoring
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+## Our Approach
 
-test.. test... test..... test?..... test!....
+Every project follows our proven methodology:
 
-!!!!!! ???? ,,  -- ---
+1. **Discover** — We assess your current environment, understand your goals, and identify gaps.
+2. **Design** — We architect a solution tailored to your requirements, budget, and growth trajectory.
+3. **Deploy** — Our engineers implement with precision, minimizing disruption and ensuring quality.
+4. **Support** — We provide ongoing management, monitoring, and optimization to keep you ahead.
 
-"Smartypants, double quotes" and 'single quotes'
+## Let's Build Together
 
+Whether you're modernizing legacy infrastructure, expanding to the cloud, or strengthening your security posture, NetGenera is ready to be your technology partner.
 
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
-
-## Lists
-
-Unordered
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::
+[Get in touch →](/contact/)
